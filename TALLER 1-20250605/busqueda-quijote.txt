@@ -1,0 +1,19 @@
+Requerimiento 1:
+Patron: (Cap[ií]tulo\s+[^\n]*)
+Coincidencias: 137
+
+Requerimiento 2:
+Patron: \b(\w+)\s+y\s+(\w+)\b
+Coincidencias: 8899
+
+Requerimiento 3:
+Patron: \b(pra|pre|pri|pro|pru)d
+Coincidencias: 112
+
+Requerimiento 4:
+Patron: \b(cra|cre|cri|cro|cru)\w*\b
+Coincidencias: 6
+
+Requerimiento 5:
+Patron: \b\w+(cho|cha|che|chi|chu)\b
+Coincidencias: 4513

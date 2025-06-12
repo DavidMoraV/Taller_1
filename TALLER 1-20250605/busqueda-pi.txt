@@ -1,0 +1,43 @@
+Requerimiento 1:
+Patron: 1415
+Coincidencias: 113
+
+Requerimiento 2:
+Patron: 1415[13579]
+Coincidencias: 63
+
+Requerimiento 3:
+Patron: (?:[02468]){3}
+Coincidencias: 89277
+
+Requerimiento 4:
+Patron: (?:[02468]){3}9
+Coincidencias: 15547
+
+Requerimiento 5:
+Patron: (?:[02468]){3}[13579]
+Coincidencias: 78097
+
+Requerimiento 6:
+Patron: (?:[02468]){3}[09]
+Coincidencias: 26482
+
+Requerimiento 7:
+Patron: (?:[02468]){2}(?:[13579]{1,3})?
+Coincidencias: 207897
+
+Requerimiento 8:
+Patron: (?:[13579]){2}0
+Coincidencias: 31250
+
+Requerimiento 9:
+Patron: [13579](?:[02468]){2,}
+Coincidencias: 155982
+
+Requerimiento 10:
+Patron: 11[13579]
+Coincidencias: 5696
+
+Requerimiento 11:
+Patron: 11[13579][02468]
+Coincidencias: 3062
